@@ -1,20 +1,11 @@
-const accountId = 14421;
+const accountId = 144553;
 let accountEmail = "sium@google.com";
-var accountPassword = "12345"
-let accountDivision;
+var accountPassword = "12345";
 
-//don't write variable like this
 accountCity = "Dhaka";
 
-//accountId = 2;
-
-/*
-prefer not to use "var" because issues in block scope and functional scope
-*/
-
-accountEmail = "sm@sm.com";
-accountPassword = 2121221;
-accountCity = "Bogra";
+// accountId = 2; //This value can not changed for constant
 
 console.log(accountId);
-console.table([accountId, accountEmail, accountPassword, accountCity, accountDivision]);
+
+console.table([accountId, accountEmail, accountPassword, accountCity]);
