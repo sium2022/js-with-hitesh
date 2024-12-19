@@ -17,10 +17,21 @@ let  valueInNumber = Number(score)
 let isLoggedIn = 1
 
 let convertInBoolean = Boolean(isLoggedIn)
-console.log(typeof convertInBoolean);
-console.log(convertInBoolean);
+// console.log(typeof convertInBoolean);
+// console.log(convertInBoolean);
 
 //1 => true
 // 0 => false
 //"" => false
 //"sium" => true
+
+
+
+// ************Operations
+
+
+
+let gameCounter = 100
+gameCounter++
+
+console.log(gameCounter);
