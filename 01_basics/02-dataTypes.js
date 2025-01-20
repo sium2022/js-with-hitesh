@@ -1,4 +1,4 @@
-"use strict"; //treat all js code as newer version of js
+//"use strict"; //treat all js code as newer version of js
 
 //alert(3 + 3); //we are using node js, not browser
 
@@ -16,3 +16,9 @@
 6-symbol => unique
 
 */
+
+let hello = '';
+
+console.log(typeof hello);
+//console.log(typeof undefined);
+
