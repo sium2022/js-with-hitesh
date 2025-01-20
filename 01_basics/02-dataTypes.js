@@ -7,14 +7,12 @@
 
 /*Data types
 
--bigint => for big big number use this data type
-
--string => "alphabetic data stored in this type IN this apostrophy comma"
-
--boolean => true/ false type data 
-
--null  => standalone value 
-
--undefined => where value didn't assigned yet
+1-number => 2 to the power 53
+2-bigint => for big big number use this data type
+3-string => "alphabetic data stored in this type IN this apostrophy comma"
+4-boolean => true/ false type data 
+5-null  => standalone value 
+6-undefined => where value didn't assigned yet
+6-symbol => unique
 
 */
